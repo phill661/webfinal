@@ -1,0 +1,39 @@
+.common{
+    background-color: rgb(9, 8, 8);
+    border: 0cm;
+    color: rgb(243, 190, 57);
+    display: flexbox;
+
+}
+.header{
+    width: 100%;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.nav{
+    position: relative;
+    float: right;
+    z-index: 10;
+}
+a{ 
+    color: rgb(218, 209, 197);
+}
+.img{
+    text-align: center;
+}
+body{
+    margin: 0%;
+}
+footer{
+    background-color: rgb(9, 8, 8);
+    margin-bottom: 0%;
+}
+h1{ 
+    background-color: rgb(9, 8, 8);
+    border: 0cm;
+    color: rgb(243, 190, 57);
+    display: flexbox;
+    margin: 0%;
+}
